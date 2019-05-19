@@ -7,5 +7,5 @@ def array_with_two_elements
 end
 
 def first_element(first)
-  [first]
+  [0]
 end
